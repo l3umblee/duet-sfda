@@ -62,10 +62,15 @@ data/
 │   ├── Product
 │   ├── RealWorld
 │
-├── VisDA-C/
+├── VISDA-C/
 │   ├── test
 │   ├── train
 │   ├── validation
+├── domainnet126/
+│   ├── clipart
+│   ├── painting
+│   ├── real
+│   ├── sketch
 ...
 ```
 
