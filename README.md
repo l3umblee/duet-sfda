@@ -81,9 +81,9 @@ For **ImageNet variations**, set the `${DATA_DIR}` path in `conf.py` to your dat
 
 ## 🔗 Dataset Download Links
 
-- **Office-Home**: [Google Drive](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view?resourcekey=0-2SNWq0CDAuWOBRRBL7ZZsw)
-- **VisDA-C**: [GitHub - taskcv-2017-public](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification)
-- **DomainNet-126**: [M3SDA Dataset Page](https://ai.bu.edu/M3SDA/)
+- **[Office-Home](https://drive.google.com/file/d/0B81rNlvomiwed0V1YUxQdC1uOTg/view?resourcekey=0-2SNWq0CDAuWOBRRBL7ZZsw)**
+- **[VisDA-C](https://github.com/VisionLearningGroup/taskcv-2017-public/tree/master/classification)**
+- **[DomainNet-126](https://ai.bu.edu/M3SDA/)**
 
 ---
 
