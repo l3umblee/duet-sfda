@@ -1,0 +1,16 @@
+*.png
+*.jpg
+*.jpeg
+
+*.pt
+*.pth
+
+*.log
+*.tmp
+.DS_Store
+__pycache__/
+*.pyc
+
+env/
+venv/
+.venv/

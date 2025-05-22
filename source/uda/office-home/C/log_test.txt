@@ -1,0 +1,4 @@
+
+Training: val, Task: CA, Accuracy = 49.94%
+Training: val, Task: CP, Accuracy = 60.13%
+Training: val, Task: CR, Accuracy = 62.54%

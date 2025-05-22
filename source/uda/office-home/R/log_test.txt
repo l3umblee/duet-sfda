@@ -1,0 +1,4 @@
+
+Training: val, Task: RA, Accuracy = 64.15%
+Training: val, Task: RC, Accuracy = 46.28%
+Training: val, Task: RP, Accuracy = 78.13%

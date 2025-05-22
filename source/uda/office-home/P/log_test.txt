@@ -1,0 +1,4 @@
+
+Training: val, Task: PA, Accuracy = 51.71%
+Training: val, Task: PC, Accuracy = 40.94%
+Training: val, Task: PR, Accuracy = 72.57%

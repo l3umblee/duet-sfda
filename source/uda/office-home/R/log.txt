@@ -1,0 +1,36 @@
+==========================================
+gpu_id:0
+s:3
+t:1
+max_epoch:50
+batch_size:64
+worker:4
+dset:office-home
+lr:0.01
+net:resnet50
+seed:2020
+bottleneck:512
+epsilon:1e-05
+layer:wn
+classifier:bn
+smooth:0.1
+output:ckps/source/
+da:uda
+trte:val
+class_num:65
+s_dset_path:./data/office-home/RealWorld_list.txt
+test_dset_path:./data/office-home/Clipart_list.txt
+output_dir_src:ckps/source/uda/office-home/R
+name_src:R
+out_file:<_io.TextIOWrapper name='ckps/source/uda/office-home/R/log.txt' mode='w' encoding='UTF-8'>
+
+Task: R, Iter:310/3100; Accuracy = 85.32%
+Task: R, Iter:620/3100; Accuracy = 82.80%
+Task: R, Iter:930/3100; Accuracy = 83.26%
+Task: R, Iter:1240/3100; Accuracy = 83.94%
+Task: R, Iter:1550/3100; Accuracy = 84.40%
+Task: R, Iter:1860/3100; Accuracy = 83.72%
+Task: R, Iter:2170/3100; Accuracy = 84.63%
+Task: R, Iter:2480/3100; Accuracy = 83.72%
+Task: R, Iter:2790/3100; Accuracy = 83.72%
+Task: R, Iter:3100/3100; Accuracy = 84.63%
