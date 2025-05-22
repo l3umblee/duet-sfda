@@ -45,7 +45,7 @@ CUDA_VISIBLE_DEVICES=0 python image_target_in_126.py --cfg "cfgs/domainnet126/pl
 
 ## 📦 Pre-trained Models
 
-Pre-trained source model weights are **provided separately** and can be used for direct evaluation or adaptation.
+Pre-trained source model weights are **[provided separately](https://drive.google.com/drive/folders/17n6goPXw_-ERgTK8R8nm4M_8PJPTEK1j)** and can be used for direct evaluation or adaptation.
 
 ---
 
