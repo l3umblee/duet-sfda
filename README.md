@@ -52,7 +52,7 @@ Pre-trained source model weights are **provided separately** and can be used for
 ## 📚 Dataset Preparation
 
 Download the datasets manually and place them in the `./data/` directory. You must also prepare the class name files and list files for each domain.  
-An example directory structure for **Office-Home** would look like:
+An example directory structure would look like:
 
 ```
 data/
