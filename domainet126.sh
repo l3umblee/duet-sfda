@@ -1,5 +1,5 @@
 DATASET="domainnet126" # imagenet_c domainnet126 officehome
-METHOD="difo"          # shot nrc plue difo
+METHOD="plmatch"          # shot nrc plue difo
 
 echo DATASET: $DATASET
 echo METHOD: $METHOD
