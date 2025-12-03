@@ -1,6 +1,6 @@
 # DUET: Dual-Perspective Pseudo Labeling and Uncertainty-aware Exploration & Exploitation Training for Source-Free Adaptation
 
-This repository contains the official implementation for **NIPS 2025 (Accpeted, Poster)** on source-free domain adaptation (SFDA).  
+This repository contains the official implementation for **NeurIPS 2025 (Accpeted, Poster)** on source-free domain adaptation (SFDA).  
 The code is based on the GitHub repository [tntek/source-free-domain-adaptation](https://github.com/tntek/source-free-domain-adaptation) and has been modified and extended for our experimental purposes.
 
 ---
@@ -97,4 +97,4 @@ For **ImageNet variations**, set the `${DATA_DIR}` path in `conf.py` to your dat
 
 ## 📧 Contact
 
-For any questions or issues, please contact the authors of the NIPS submission.
+For any questions or issues, please contact the authors of the NeurIPS submission.
